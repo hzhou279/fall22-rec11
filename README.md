@@ -3,3 +3,5 @@
 
 # Attendance
 [put your andrewID here]
+
+I love Jay chou
